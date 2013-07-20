@@ -1,5 +1,0 @@
-One Line Description:
-
-An App/API for streaming only the audio components of youtube videos, optimized for music videos.
-
-Youtube is, for a great many people, primarily a music sharing/listening platform. Tons of people use it for this purpose, but as a platform it is in no way optimized for this experience. There's a video when people really only want audio, there are hordes of obnoxious commenters, there are obtrusive ads everywhere etc. What is proposed here is a simple service via which users can search for music/request it via a RESTful API. That's it. Similar services, like Youtify and FireTube, exist, but they ultimately fail to recognize that what is needed is not a fully-fledged music app using youtube as its source, but rather a sort of one-off service where users (primarily on mobile) listen/request a song and move on. Such simplicity makes it a lot easier to market to both end users who want to listen to a song on mobile without all the typical bullshit (ads, having to stay in the app to continue listening), and developers seeking to integrate youtube audio into their projects.
